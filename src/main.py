@@ -1,3 +1,5 @@
+print('Selamat Datang di Pasar Buah!')
+
 # Minta Input User
 nApel = int(input('Masukan jumlah Apel: '))
 nJeruk = int(input('Masukan jumlah Jeruk: '))
